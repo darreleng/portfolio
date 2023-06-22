@@ -1,5 +1,5 @@
 # Portfolio
-This repository is a compilation of practice projects as I explore the world of data science and AI!
+This repository is a compilation of practice projects as I explore the world of data science!
 
 ## [Project 1 - ARIMA Models](https://github.com/darreleng/portfolio/blob/main/macrodata_arima.ipynb)
 On a US macroeconomic dataset, I do a little preprocessing before analysing its time components with STL. Then, I check for stationary using differencing and augmented Dickey-Fuller tests before finding the optimal p and q orders using Akaike Information Criterion. Once an ARIMA model is fitted, I analyse its residuals qualitatively and quantitatively to check if the model adequately captures the predictable patterns of the data. Finally, I create deterministic time features to be used as exogenous variables for a separate ARIMAX model. 

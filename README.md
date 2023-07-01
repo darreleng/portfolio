@@ -9,3 +9,6 @@ This project uses a dataset containing sales of a supermarket. I first clean and
 
 ## [Project 3 - Henry Thia vs. Khaw Boon Wan Classifier](https://github.com/darreleng/portfolio/blob/main/thia_khaw_classification.ipynb)
 There is a running joke in Singapore that actor Henry Thia and former politician Khaw Boon Wan are doppelgängers. For this project, I first build a simple ConvNet to establish a baseline accuracy score. Then, I increase the size of my tiny dataset (50 images per class) with data augmentation. Lastly, I leverage the power of transfer learning by using an EfficientNet model.
+
+## [Project 4 - Energy Anomaly Detection](https://github.com/darreleng/portfolio/blob/main/energy_anomaly_detection.ipynb)
+In this project, I try to detect meter reading anomalies in 2 buildings using a CatBoost classifier and an LSTM neural network.

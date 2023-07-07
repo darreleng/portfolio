@@ -12,3 +12,6 @@ There is a running joke in Singapore that actor Henry Thia and former politician
 
 ## [Project 4 - Energy Anomaly Detection](https://github.com/darreleng/portfolio/blob/main/energy_anomaly_detection.ipynb)
 In this project, I try to detect meter reading anomalies in 2 buildings using a CatBoost classifier and an LSTM neural network.
+
+## [Project 5 - Energy Anomaly Detection](https://github.com/darreleng/portfolio/blob/main/stroke_predictions.ipynb)
+The goal of this project is to predict which patient has suffered a stroke before. Some of the patients in the dataset have missing 'bmi' values. For each missing value, I use the mean 'bmi' value of other patients who share similar characteristics as the particular patient in question. After imputing and other data preparation steps, I train a CatBoost Classifier model and tune it with cross-validation before evaluating it and trying another approach to improve its performance.

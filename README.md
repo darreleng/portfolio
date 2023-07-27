@@ -15,3 +15,6 @@ In this project, I try to detect meter reading anomalies in 2 buildings using a 
 
 ## [Project 5 - Stroke Predictions](https://github.com/darreleng/portfolio/blob/main/stroke_predictions.ipynb)
 For this project, I first try to explore the relationships between the different variables and how they interplay with stroke. Afterwards, I try to predict which patient has suffered a stroke before. Some of the patients in the dataset have missing 'bmi' values. To fill each missing value, I use the mean 'bmi' value of other patients who share similar characteristics as the particular patient in question. After imputing and other data preparation steps, I train a CatBoost Classifier model and tune it with cross-validation before evaluating it and trying another approach to improve the overall predictive performance.
+
+## [Project 6 - Brand Perceptual Map](https://github.com/darreleng/portfolio/blob/main/brand_perception.ipynb)
+I create a brand perceptual map using PCA and a biplot.

@@ -1,7 +1,7 @@
 # Portfolio
 This repository is a compilation of projects as I explore the world of data science!
 
-## [Project 1 - Telco Churn Analysis](https://github.com/darreleng/portfolio/blob/main/macrodata_arima.ipynb](https://github.com/darreleng/portfolio/blob/main/telco_churn.ipynb)
+## [Project 1 - Telco Churn Analysis](https://github.com/darreleng/portfolio/blob/main/telco_churn.ipynb)
 I identify the main factors that are associated with customer churn using a mix of statistical tests (T and Chi2) and a random forest machine learning model (CatBoost), and analyse their implications and what the telco can do to improve customer retention.
 
 ## [Project 2 - Brand Perceptual Map](https://github.com/darreleng/portfolio/blob/main/brand_perception.ipynb)
